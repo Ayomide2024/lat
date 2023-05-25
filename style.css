@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: linear-gradient(rgba(0,0,0, 50%),rgba(0,0,0,50%)),url(png-2734003.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+nav{
+    background-color: #fff;
+    padding: 7px 15px;
+}
+nav h1{
+    font-family: monospace;
+}
+h6{
+    color: #fff;
+    font-family: monospace;
+    display: flex;
+    justify-content: center;
+}
+h1{
+    color: #fff;
+    font-family: monospace;
+    display: flex;
+    justify-content: center;
+}
+.ht{
+    height: 45vh;
+    display: flex;
+    justify-content: center;
+}
+.hte button{
+    color: #fff;
+    background-color: tomato;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+}
+.l h4{
+    font-family: monospace;
+    padding: 15px 30px;
+}
